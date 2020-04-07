@@ -4,7 +4,7 @@ The p5.js Web Editor is a platform for creative coding, with a focus on making c
 
 We also strive to give the community as much ownership and control as possible. You can download your sketches so that you can edit them locally or host them elsewhere. You can also host your own version of the editor, giving you control over its data.
 
-## Community
+## Communit
 
 New to the p5.js community? Read our [community statement](https://p5js.org/community/).
 
